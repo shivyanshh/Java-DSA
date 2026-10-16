@@ -17,3 +17,7 @@ public class selection_sort{
         return arr;
     }
 }
+//it has two loops, outer loop iterates till the length of array times
+//inner loop remembers if the minimum value is greater than next , if it is
+//it updates the value
+//and once the inner loop ends, it swaps the minimum value to the new value at the iterating position
